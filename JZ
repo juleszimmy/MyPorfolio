@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Oxford Pizza</title>
+		<link rel="stylesheet" href="css/normalize.min.css">
+		<link rel="stylesheet" href="css/milestone.css">
+        <link rel="stylesheet" href="https://use.typekit.net/wda5yri.css">
+<link rel="stylesheet" href="https://use.typekit.net/wda5yri.css">
+
+
+	</head>
+	
+	<body>
+<header>		
+	<nav>
+		<ul>
+			<li> <a href="index.html" div id="home"> HOME </a></li>
+			<li> <a href= "information.html" div id="info"> INFORMATION </a></li>
+			<li> <a href="FAQ.html" div id="FAQ"> FAQ </a></li>
+			<li> <a href="contact.html" div id="contact"> CONTACT</a></li>
+		</ul>
+	</nav>
+		
+		<img src="img/pizza.png" div id="pizza">
+        
+        </header>
+        
+<section id="intro">
+<article>  
+    <h1>Never eat bad pizza again. </h1>
+        <h2>We know how important pizza is to you. It's that important to us, too.</h2>
+
+            <p>We're a group of college students at Miami Univeristy who love pizza. We created this webpage to be a one-stop destination for everyone seeking the best pizza places in Oxford.</p>
+            <p>On this site, we will evaluate all of the pizza shops in Oxford. We'll make decisions about taste, options, price and quality. We know pizza and we hope that you will learn a lot about Oxford's pizza landscape! </p>
+      <img id="pizza1" src="img/frontpagepizza.jpeg"> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <p>Continue to explore this webpage to learn more about Oxford pizza. Don't forget to contact us if you have any questions, or just need a suggestion!</p>
+    </article>    
+    </section>     
+    
+
+        <aside>
+		<h2>Oxford Joints:</h2>
+        <p><strong>SDS Pizza</strong>
+        <br>
+        SDS is a local favorite! With great pizza and salads, it's almost always our go-to pizza.</p>
+
+    
+    <p><strong>Bruno's Pizza</strong>
+        <br>
+        Bruno's provides the perfect locale for a midnight pizza snack perfect for a study break. Don't forget to try the Bruno balls!</p>
+        <p><strong>LaRosa's Pizzeria</strong>
+        A regional novelty, LaRosa's Cincinnati's favorite pizza. With lots of Italian flair, it's the best spot in town for the whole family.
+        </p>
+    <p><strong>Rapid-Fired</strong>
+        <br>
+        Modern, fun and create-your-own! Rapid-Fired is like the Subway of pizza!</p>
+        <p><strong>Papa John's</strong>
+        Papa John's may not be our #1, but they never let us down!
+        </p>
+        <p><strong>Domino's Pizza</strong>
+        <br>
+        What town doesn't have a Domino's? It's just downright un-American not to.</p>
+    <p><strong>Little Ceasar's</strong>
+        <br>
+        Pizza, pizza! That's what we're all about around here! Little Ceasar's has the best deals around.</p>
+    <img class="oxford"src="img/oxford.jpg">        
+    
+    </aside>
+        
+<footer>
+		<p> Copyright 2019 Oxford Pizza. </p>
+	</footer>
+        
+        
+        
+    </body>
+ </html>
